@@ -9,7 +9,7 @@
 </h3>
 
 <h2 align="center">
-  I'm a student @ Boston University📚, an Athlete🏐, and Foodie. ༼ つ ◕_◕ ༽つ🍰🍔🍕.
+  I'm a student @ Boston University📚, and Athlete🏐
 </h2>
 
   
