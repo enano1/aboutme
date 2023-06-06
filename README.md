@@ -11,8 +11,8 @@
 <h2 align="center">
   I'm a student @ BU📚, and Athlete🏐
 </h2>
-<p> 🔭 I’m currently working on personal projects and learning more the next semeseter :) <\p>
-  
+<p> 🔭 I’m currently working on personal projects and learning more the next semeseter :) </p>
+<p> 👯 I’m looking to collaborate on anything, recently interested in machine learning and Ai. </p>
 <!--
 **enano1/enano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
