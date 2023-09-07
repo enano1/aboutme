@@ -5,7 +5,7 @@
 </h3>
 
 <h2 align="center">
-  I'm a student @ BU📚, and Athlete🏐
+  I'm a student @ BU📚
 </h2>
 <p> 🔭 I’m currently working on personal projects and learning more the next semeseter :) </p>
 
